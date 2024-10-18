@@ -117,3 +117,4 @@ D:\DEV\Projetos C#\MinimalApiCatalogo\MinimalApiCatalogo\bin\Debug\net8.0\Micros
 D:\DEV\Projetos C#\MinimalApiCatalogo\MinimalApiCatalogo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\DEV\Projetos C#\MinimalApiCatalogo\MinimalApiCatalogo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\DEV\Projetos C#\MinimalApiCatalogo\MinimalApiCatalogo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DEV\Projetos C#\MinimalApiCatalogo\MinimalApiCatalogo\obj\Debug\net8.0\MinimalApiCatalogo.sourcelink.json
